@@ -1,0 +1,14 @@
+/home/ubuntu/Desktop/JustTry/bin/Debug/net8.0/JustTry
+/home/ubuntu/Desktop/JustTry/bin/Debug/net8.0/JustTry.deps.json
+/home/ubuntu/Desktop/JustTry/bin/Debug/net8.0/JustTry.runtimeconfig.json
+/home/ubuntu/Desktop/JustTry/bin/Debug/net8.0/JustTry.dll
+/home/ubuntu/Desktop/JustTry/bin/Debug/net8.0/JustTry.pdb
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.AssemblyInfo.cs
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.dll
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/refint/JustTry.dll
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.pdb
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/JustTry.genruntimeconfig.cache
+/home/ubuntu/Desktop/JustTry/obj/Debug/net8.0/ref/JustTry.dll
